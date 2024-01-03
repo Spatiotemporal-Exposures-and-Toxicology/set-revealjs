@@ -1,4 +1,4 @@
-# Illinois-themed Revealjs Extension For Quarto
+# {SET}grp-themed Revealjs Extension For Quarto
 
 A [quarto extension](https://quarto.org/docs/extensions/) featuring an [Illinois-inspired theme](https://marketing.illinois.edu/visual-identity/color) for the [reveal.js format](https://quarto.org/docs/presentations/revealjs/).
 
